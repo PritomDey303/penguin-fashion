@@ -196,7 +196,9 @@ footer{
 /* MEDIA QUERY */
 
 @media screen and (max-width: 768px){
-     
+    .navbar-brand{
+        width: 55%;
+    }
     .nav-item{
         margin: 0;
     }
